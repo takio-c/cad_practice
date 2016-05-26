@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = 2016年05月07日 14時50分35秒
+
+BeginCmp
+TimeStamp = /5729CA06;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = CPR10X16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5729C99D;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5729E397;
+Reference = C3;
+ValeurCmp = 2200pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5729E38A;
+Reference = C4;
+ValeurCmp = 2200pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /572A92FC;
+Reference = K1;
+ValeurCmp = stereo_jack;
+IdModule  = PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /572A8D33;
+Reference = P1;
+ValeurCmp = MM-5102;
+IdModule  = DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5729E3EB;
+Reference = P2;
+ValeurCmp = RPi_PinSocket;
+IdModule  = PIN_ARRAY_20X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5729C843;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5729C852;
+Reference = R2;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /572A925C;
+Reference = SW0;
+ValeurCmp = SEL_AGND;
+IdModule  = MICROSWITCH_SPST;
+EndCmp
+
+BeginCmp
+TimeStamp = /572A9269;
+Reference = SW1;
+ValeurCmp = SEL_A33V;
+IdModule  = MICROSWITCH_SPST;
+EndCmp
+
+EndListe
